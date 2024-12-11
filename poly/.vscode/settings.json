@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "random": "c",
+        "error.h": "c",
+        "ctype.h": "c",
+        "poly.h": "c"
+    }
+}
